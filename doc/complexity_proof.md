@@ -1,4 +1,4 @@
-# Complexity and Error-Bound Analysis
+# Complexity and Error-Bound Analysis.
 
 Notation: w = columns, d = rows, N = total events, n = distinct sources,
 k = top-k size, L = key length in characters.

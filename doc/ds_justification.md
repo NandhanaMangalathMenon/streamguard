@@ -1,4 +1,4 @@
-# Data Structure Justification: Why Count-Min Sketch for StreamGuard
+# Data Structure Justification: Why Count-Min Sketch for StreamGuard.
 
 ## Problem
 Estimate how often each traffic source (IP address) appears in an unbounded

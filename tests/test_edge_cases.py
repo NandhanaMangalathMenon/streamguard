@@ -8,7 +8,7 @@ from streamguard.count_min_sketch import CountMinSketch
 U32_MAX = 0xFFFFFFFF
 
 
-# ---- invalid parameters
+# ---- invalid parameters.
 @pytest.mark.parametrize("eps", [0, -0.1, 1, 1.5, float("nan")])
 def test_invalid_epsilon_rejected(eps):
     with pytest.raises(ValueError):

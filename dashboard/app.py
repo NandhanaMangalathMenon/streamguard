@@ -6,7 +6,7 @@ Run from the repository root:
 import os
 import sys
 
-# Make `streamguard` and `dashboard` importable when launched by Streamlit.
+# Make `streamguard` and `dashboard` importable when launched by Streamlit
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import streamlit as st

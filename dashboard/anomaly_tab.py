@@ -1,7 +1,7 @@
 """Anomaly tab: flags sources that take an unusually large share of traffic."""
 import streamlit as st
 
-ALERT_SHARE = 0.10  # alert if one source exceeds 10% of all traffic
+ALERT_SHARE = 0.10  # alert if one source exceeds 10% of all traffic.
 
 
 def render(state):

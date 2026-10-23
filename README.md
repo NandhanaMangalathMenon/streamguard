@@ -1,4 +1,4 @@
-# StreamGuard
+# StreamGuard - Real Time Network traffic analytics 
 
 Real-time network traffic analytics using a **Count-Min Sketch** to estimate
 source-IP frequencies, detect heavy hitters and flag floods with low memory.

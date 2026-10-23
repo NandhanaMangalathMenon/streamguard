@@ -46,6 +46,6 @@ pip install -r requirements.txt
 | Member | Area |
 |---|---|
 | M1 | Count-Min Sketch core, memory tab, experiments |
-| M2 | Hashing, top-k, CLI |
+| M2 | Hashing, top-k, CLI , experiments , tests|
 | M3 | Traffic generator, exact counter, metrics, tests |
 | M4 | Repo, dashboard, anomaly tab, edge-case tests, docs |
